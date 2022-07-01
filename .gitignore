@@ -153,3 +153,4 @@ cython_debug/
 Data/title.akas.tsv.gz
 Data/title.basics.tsv.gz
 Data/title.ratings.tsv.gz
+.DS_Store
